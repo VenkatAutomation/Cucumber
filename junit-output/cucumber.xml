@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="41.434">
+<testcase classname="Add Stock Category" name="Adding Stock Category" time="41.195">
+<system-out><![CDATA[Given login to app..........................................................passed
+Then click on stock items...................................................passed
+Then click on stock categories..............................................passed
+When click on add button....................................................passed
+Then enter category name "Mobiles"..........................................passed
+And click on add btn........................................................passed
+Then accept confirm msg.....................................................passed
+And validate success msg....................................................passed
+Then user should check whether added or not with name "Mobiles".............passed
+And user logout app.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
